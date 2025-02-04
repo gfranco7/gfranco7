@@ -1,5 +1,8 @@
-## Hi there 👋
-<h1 align="center">Hi 👋, I'm Gean Franco</h1>
+## Welcome!
+
+![GEan franco jacome](https://github.com/user-attachments/assets/1951c47e-2b75-4722-bdd3-fd10aedbc9f9)
+
+<h1 align="center">Hey 👋, I'm Gean Franco</h1>
 <h3 align="center">A passionate junior Backend developer from Colombia</h3>
 
 - 🌱 I’m currently learning **React**
