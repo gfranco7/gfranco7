@@ -5,15 +5,39 @@
 <h1 align="center">Hey 👋, I'm Gean Franco</h1>
 <h3 align="center">A passionate junior Fullstack developer from Colombia</h3>
 
-- 🌱 I’m currently learning **React**
 
-- 🤝 I’m looking for help with **Cybersecurity**
+---
 
-- 💬 Ask me about **Java, python**
+## 👨‍💻 About me
 
-- 📫 How to reach me **gfrancojacome710@gmail.com**
+- Passionate about developing software solutions that optimize processes and create real value  
+- Strong interest in continuous learning, system understanding, and problem-solving  
+- Experience working on full-stack web applications, from UI to backend logic  
+- Motivated to grow professionally and take on increasingly complex technical challenges  
 
-- ⚡ Fun fact **Music runs through my veins**
+---
+
+## 🌱 Currently focused on
+
+- Strengthening my foundations in modern web development  
+- Improving my analytical and problem-solving skills  
+- Exploring data analysis
+
+---
+
+## 💬 Ask me about
+
+- Web development fundamentals  
+- Backend & frontend integration  
+- Python, Node.js, Typescript y React  
+
+---
+
+## 📫 How to reach me
+
+- **Email:** gfrancojacome710@gmail.com  
+
+---
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
