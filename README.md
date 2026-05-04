@@ -90,4 +90,6 @@ Git · GitHub · Linux
 
 ## 🔗 Connect with me
 
-[![LinkedIn](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg)](https://www.linkedin.com/in/geanfrancojacome/)
+<a href="https://www.linkedin.com/in/geanfrancojacome/" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="20" width="25" />
+</a>
