@@ -1,83 +1,93 @@
 ## Welcome!
 
-![Gean Franco Jacome](https://github.com/user-attachments/assets/1951c47e-2b75-4722-bdd3-fd10aedbc9f9)
+<img width="1584" height="396" alt="GEan franco jacome" src="https://github.com/user-attachments/assets/aa917429-7c07-4a92-8878-b19344956ccc" />
 
 <h1 align="center">Hi 👋, I'm Gean Franco</h1>
-<h3 align="center">Junior Data Analyst | SQL • Power BI • Data Analysis</h3>
+<h3 align="center">Data Analyst & Full-Stack Developer | SQL · Python · Power BI · Node.js</h3>
 
 ---
 
 ## 👨‍💻 About me
 
-- Junior Data Analyst focused on transforming raw data into actionable insights  
-- Strong foundation in SQL, data cleaning, and reporting  
-- Experience building dashboards and working with structured datasets  
-- Background in software development, bringing a technical and problem-solving mindset to data analysis  
-- Currently developing skills in data modeling, analytics, and business-oriented reporting  
+- Data Analyst with a background in full-stack software development
+- 6 months of professional experience building real-world systems at Campuslands
+- 4 years in military intelligence — collecting, analyzing, and reporting critical information under pressure
+- Experienced in the full development cycle: database design, backend, and frontend
+- Focused on turning data into clear, actionable insights for decision-making
 
 ---
 
 ## 📊 What I do
 
-- Query and analyze data using SQL (joins, aggregations, filtering)  
-- Clean and structure datasets for analysis  
-- Build dashboards and reports using Power BI  
-- Identify patterns and support decision-making through data  
+- Query and analyze data using SQL (joins, aggregations, filtering, subqueries)
+- Clean, structure, and validate datasets for analysis
+- Build dashboards and KPI reports in Power BI
+- Develop full-stack applications with React, Node.js, Express, and PostgreSQL
+- Identify patterns and support decision-making through data
 
 ---
 
 ## 🚀 Current focus
 
-- Strengthening SQL for real-world data scenarios  
-- Improving dashboard design and storytelling in Power BI  
-- Learning data modeling (star schema, data organization)  
-- Working on end-to-end data analysis projects  
+- Strengthening SQL for real-world business scenarios
+- Improving dashboard design and data storytelling in Power BI
+- Deepening Python skills for data analysis (Pandas, NumPy)
+- Building an end-to-end data analytics portfolio
 
 ---
 
 ## 📂 Featured Projects
 
-<!-- Aquí debes añadir proyectos reales -->
-- 📊 Data Analysis Project – Cleaning, analysis, and dashboard creation  
-- 📈 Dashboard Project – KPI tracking and reporting visualization  
-- 🧾 Data Processing Project – Structured data transformation and reporting  
+### 🧾 Space Reservation System
+Full-stack web application for managing space bookings.
+- **Stack:** React · Node.js · Express · PostgreSQL
+- **Highlights:** Role-based authentication, admin panel, recurring reservations, REST API
+
+### 🏫 APEX – Academic Management System
+Collaborative full-stack system for managing courses, users, and enrollments.
+- **Stack:**  React · Node.js · Express · PostgreSQL · PostgreSQL
+- **Highlights:** Database design, frontend and backend development, enterprise-oriented
+
+### 📊 AI Jobs Analysis
+Data analysis project on global AI job market trends.
+- **Stack:** Python · Pandas · NumPy
+- **Highlights:** Data cleaning, EDA, simple and multiple linear regression models
+
+### 📈 Power BI Dashboards
+Collection of business dashboards built across 4 projects.
+- **Tools:** Power BI · Excel · SQL
+- **Highlights:** KPI tracking, data visualization, business reporting
+---
+
+## 🛠️ Tools & Technologies
+
+**Data**
+SQL · Python (Pandas, NumPy) · Power BI · Excel · EDA · Data Cleaning
+
+**Databases**
+PostgreSQL · MySQL
+
+**Development**
+React · Node.js · Express · REST APIs
+
+**Tools**
+Git · GitHub · Linux
 
 ---
 
 ## 💬 Ask me about
 
-- SQL and data querying  
-- Power BI dashboards  
-- Data cleaning and analysis  
-- Python for data tasks  
+- SQL and data querying
+- Power BI dashboards and KPI reporting
+- Data cleaning and exploratory analysis
+- Full-stack development with Node.js and React
 
 ---
 
 ## 📫 Contact
 
-- **Email:** gfrancojacome710@gmail.com  
-
----
+**Email:** gfrancojacome710@gmail.com
 
 ## 🔗 Connect with me
 
-<p align="left">
-<a href="https://www.linkedin.com/in/geanfrancojacome/" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
-</a>
-</p>
-
----
-
-## 🛠️ Tools & Technologies
-
-**Data Stack**
-- SQL Server / MySQL / PostgreSQL  
-- Power BI  
-- Excel / Google Sheets  
-- Python (Pandas – básico)
-
-**Technical Background**
-- Git  
-- Linux  
-- JavaScript / Node.js (background)  
+[![LinkedIn](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg)](https://www.linkedin.com/in/geanfrancojacome/)
